@@ -1,0 +1,9 @@
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\Belatrix.JobLogger.dll
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\Belatrix.JobLogger.pdb
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\Moq.dll
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\nunit.framework.dll
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\Moq.xml
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\nunit.framework.xml
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\obj\Debug\Belatrix.JobLogger.dll
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\obj\Debug\Belatrix.JobLogger.pdb
+C:\Users\htrdev\documents\visual studio 2013\Projects\Belatrix\Belatrix.JobLogger\bin\Debug\Belatrix.JobLogger.dll.config
