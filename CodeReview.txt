@@ -1,0 +1,10 @@
+-First thing i would apply is SRP(Single responsability principle). JobLogger should be a role to be more explicit, if its database, textfile or console it should be a infraestructure implementation detail
+	I identify two roles or responsabilities here:
+		Rol A (Logger) : It should manage configurability ( Log levels(warning, error, message) and Log types(database, textfile, console)).
+		Rol B (JobLogger) : It should manage how logs should be stored(Implementation details)
+-Naming isnt clear here, variables such as "t" or "l" doesnt have any meaning for a programmer. Names should be clear and meaninfull. i would give more meaningfull name to variables and methods.
+-Unit Testing this will be really hard because you will need to setup alot of infraestructure like database, or a ready working directory and thats not what we would like to. Unit Tests should be as simple as you can and also isolated. In order to isolate some tests i would use "mocks" when infraestructure code is called such as database code or textfile code, thats why i'm extracting JobLogger in an interface and implementing its behavior in 3 different ways (database, textfile, console), now i can test each of them and make changed in any of them without breaking others and ofcourse "mock" them.
+
+
+
+
